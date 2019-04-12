@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright Adriano Fantini (https://adrfantini.github.io)",
   "usage-stats": false
 }
